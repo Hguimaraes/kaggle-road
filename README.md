@@ -15,3 +15,4 @@
 3. [Digit-Recognizer](https://www.kaggle.com/c/digit-recognizer)
 4. [Marathon-dataset](https://www.kaggle.com/girardi69/marathon-time-predictions)
 5. [Deep-Learning-AZ-dataset](https://www.kaggle.com/filippoo/deep-learning-az-ann)
+6. [Solar Radiation Prediction](https://www.kaggle.com/dronio/SolarEnergy)
